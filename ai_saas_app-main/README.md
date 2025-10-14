@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/Ahwoks_dawU?feature=shared" target="_blank">
       <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/daf9e91b-6342-4e9a-9361-8dc2bd01ce64" alt="Project Banner">
     </a>
   <br />
@@ -15,10 +14,7 @@
 
   <h3 align="center">An AI SaaS Platform</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
+ 
 
 ## 📋 <a name="table">Table of Contents</a>
 
